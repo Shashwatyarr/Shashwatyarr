@@ -1,54 +1,78 @@
-# Hi there, I'm Shashwat Srivastava 👋  
+# Hi, I'm Shashwat Srivastava 👋
 
-🎓 IT-28 @ KIET Group of Institutions  
-💻 Competitive Programmer | Codeforces Pupil (1340) | CodeChef (1518 ⭐⭐)  
-📈 Solved 1000+ coding questions across platforms  
-🌐 Backend Developer (MERN stack) | Cybersecurity Enthusiast  
-🎨 UI/UX Designer | Graphic Designer | Photographer  
+I'm an IT student at KIET with a strong passion for **Competitive Programming** and **Web Development**. I thrive on tackling complex algorithms and optimizing solutions using Data Structures and Algorithms (DSA). I believe in writing clean, efficient, and scalable code, whether it's for LeetCode challenges or full-stack applications. My competitive programming ratings include **Codeforces: 1340 (Pupil)** and **CodeChef: 1518 (Two-stars)**, and I've solved over **1000+ questions** across various platforms.
+
+Beyond my primary focus, I also have experience as a **UI/UX Designer** and **Graphic Designer**. I enjoy designing user-friendly interfaces, and I'm always experimenting with new tech and creative projects. I'm also passionate about photography and cinematography.
 
 ---
 
-## 🚀 Tech Stack  
+### 💻 Tech & Tools Preference
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
----
-
-## 🌟 Featured Projects  
-
-🔗 [Amazon Clone](https://github.com/Shashwatyarr/Amazon-Clone) – Fully responsive clone using HTML & CSS  
-🔗 [Res-pie](https://github.com/Shashwatyarr/Res-pie) – Multi-page recipe blog with YouTube embeds  
-🔗 [Chatty](https://github.com/Shashwatyarr/Chatty) – Real-time MERN chat app with 32 UI themes  
-🔗 [Codolio](#) – Coding portfolio & progress tracker (Work in Progress 🚧)
-
----
-
-## 📊 GitHub Stats  
-
-![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwatyarr&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Shashwatyarr&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatyarr&layout=compact&theme=radical)
+<p>
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-404D59?style=flat&logo=express&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/-Hoppscotch-00A8E8?style=flat&logo=hoppscotch&logoColor=white">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+</p>
 
 ---
 
-## 🌱 A Little About Me  
-- ⚡ Love solving problems & exploring cybersecurity 🔐  
-- 🎥 Passionate about photography & cinematography  
-- 🎨 Designing UI/UX that’s clean & user-friendly  
-- 💡 Always experimenting with new tech & creative projects  
+### 📖 Other Languages
+
+<p>
+  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+  <img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+</p>
 
 ---
 
-✨ *“Buzzing with life, building with code.”* ✨  
+### 📊 Data Structures & Algorithms
 
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white">
+  <img src="https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116">
+  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white">
+  <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2EC866?style=flat&logo=GeeksforGeeks&logoColor=white">
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white">
+</p>
+
+---
+
+### 🏆 GitHub Stats
+
+![Shashwat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwatsrivastava&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatsrivastava&layout=compact&theme=radical)
+
+---
+
+### 🌍 Socials
+
+<p>
+  <a href="https://www.linkedin.com/in/shashwat-srivastava-example" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shashwatsrivastava" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://codolio.com/profile/shashwatsrivastava" target="_blank">
+    <img alt="Codolio" src="https://img.shields.io/badge/-Codolio-30336b?style=flat&logo=data&logoColor=white" />
+  </a>
+</p>
