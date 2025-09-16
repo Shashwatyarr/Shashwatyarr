@@ -60,16 +60,17 @@ I specialize in building dynamic and user-friendly web applications, primarily u
 
 | Metric | Value |
 | :--- | :--- |
-| **Total Questions Solved** | 1029 |
-| **Total Active Days** | 249 |
-| **Total Contests** | 54 |
-| **Codeforces Rating** | 1340 (Pupil) |
-| **CodeChef Rating** | 1518 (Two-stars) |
+| **Total Questions Solved** | 1100+ |
+| **Total Active Days** | 275 |
+| **Total Contests** | 66 |
+| **Codeforces Rating** | 1340 max (Pupil)  |
+| **Leetcode Rating** | 1637 (max) |
+| **CodeChef Rating** | 1557 (Two-stars) |
 
 **Contest Breakdown:**
-- LeetCode: 19
-- CodeChef: 14
-- Codeforces: 18
+- LeetCode: 23
+- CodeChef: 17
+- Codeforces: 23
 - GeeksforGeeks: 3
 
 ---
@@ -84,13 +85,13 @@ I specialize in building dynamic and user-friendly web applications, primarily u
 ### 🌍 Socials
 
 <p>
-  <a href="https://www.linkedin.com/in/shashwat-srivastava-example" target="_blank">
+  <a href="[https://www.linkedin.com/in/shashwat-srivastava-example](https://www.linkedin.com/in/shashwat0srivastava/)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shashwatsrivastava" target="_blank">
+  <a href="https://github.com/Shashwatyarr" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://codolio.com/profile/shashwatsrivastava" target="_blank">
+  <a href="https://codolio.com/profile/shashwatyrr" target="_blank">
     <img alt="Codolio" src="https://img.shields.io/badge/-Codolio-30336b?style=flat&logo=data&logoColor=white" />
   </a>
 </p>
